@@ -66,17 +66,11 @@ There are two materials on JLC that have been tested and work well:
  
  If you are located in the USA and would not like to wait 2 weeks for shipping from China, I have a small stock of these keycaps that I am reselling.
  
- __This will be more expensive than ordering directly from JLC__
+ __This will be (a little) more expensive than ordering directly from JLC__
  
- Prices are as follows:
+ Prices range from $12 to $35 for a set of 22 caps, I have white and black as well as the ability to dye in custom colors.
  
- $0.40 per keycap for resin (I have LEDO6060 (white) and Imagine Black (black, not available on JLC))
- 
- ~~$0.80 per keycap for nylon~~ (out of stock for now)
- 
- Shipping is $3.50
- 
- Contact me on Discord if you have any questions about the project: @bjartskular1#6913
+ Contact me on Discord if you have any questions about the project or want to talk about buying keycaps: @bjartskular1#6913
  
  ### Pictures of the keycaps:
  
